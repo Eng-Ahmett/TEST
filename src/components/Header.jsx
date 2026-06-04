@@ -87,6 +87,10 @@ const Header = () => {
       )}
     </header>
   );
+<<<<<<< HEAD
 };
 
 export default Header;
+=======
+}
+>>>>>>> b3227d6759461241f13e8eb32561f5f411ff5458
